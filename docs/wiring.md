@@ -2,6 +2,9 @@
 
 This document maps the provided Wokwi design to Raspberry Pi Pico W GPIO usage.
 
+<img width="741" height="652" alt="image" src="https://github.com/user-attachments/assets/3e2e1883-d6f9-455b-8711-fb20681de2e9" />
+
+
 ## High-Level Topology
 
 - Keypad columns `C1..C4` are connected to GPIO pins and scanned by firmware.
